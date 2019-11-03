@@ -19,3 +19,8 @@ pip install -r requirments.txt
 ```
 mkdir input && mkdir output
 ```
+
+## Example shell command
+```
+python imageresize.py --size=6 --input='./dfdfgdfg' --output='./output'
+```
